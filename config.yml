@@ -2,4 +2,4 @@ title: testing
 #logo: /assets/img/headshot circle.png
 #description. text beLow image
 #show_downloads: true
-theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
